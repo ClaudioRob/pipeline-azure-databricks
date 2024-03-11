@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-dbricks-alura"
+		},
+		"ls_databricks_adf_accessToken": {
+			"value": ""
+		},
+		"ls_databricks_adf_properties_typeProperties_existingClusterId": {
+			"value": "0308-203151-bmbnq8w8"
+		}
+	}
+}
