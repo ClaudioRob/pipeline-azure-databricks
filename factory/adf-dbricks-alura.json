@@ -1,0 +1,9 @@
+{
+	"name": "adf-dbricks-alura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c143d4e0-969b-4133-b016-7f871283668b",
+		"tenantId": "e27b22bc-4cd2-4a54-9ec0-aef89f4c1179"
+	}
+}
